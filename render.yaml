@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: crm-proxy
-    env: php
-    buildCommand: ""
-    startCommand: ""
-    plan: free
-    autoDeploy: true
